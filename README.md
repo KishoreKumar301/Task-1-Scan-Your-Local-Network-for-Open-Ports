@@ -26,4 +26,4 @@ UDP port scan.
 8. nmap 192.168.1.1-50
 Scans multiple targets (Works like angry IP scanner)
 
-The ouput for the above commands has been attached in the repo , each output file name corresponds to it number here.
+The ouput for the above commands has been attached in the repo as a word file.
